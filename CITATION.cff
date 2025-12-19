@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+type: report
+title: "On the Geometric Origin of Matter in Emergent Gravity Frameworks (BP3.5)"
+authors:
+  - family-names: Smart
+    given-names: Lee
+affiliation: "Vibrational Field Dynamics Institute"
+date-released: 2025-12-04
+version: "1.0"
+keywords:
+  - emergent gravity
+  - geometry
+  - stabilised geometry
+  - matter
+  - topology
+  - variational principles
+license: CC-BY-4.0
+contact:
+  email: contact@vibrationalfielddynamics.org
+repository-code: "https://github.com/vfd-org/bridge-paper-3-5-matter-stabilised-geometry"
